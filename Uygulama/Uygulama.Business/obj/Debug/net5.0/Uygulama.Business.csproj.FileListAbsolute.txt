@@ -1,0 +1,17 @@
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.Business.deps.json
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.Business.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\ref\Uygulama.Business.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.Business.pdb
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.DataAccess.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.Entities.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.DataAccess.pdb
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\bin\Debug\net5.0\Uygulama.Entities.pdb
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.csprojAssemblyReference.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.AssemblyInfoInputs.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.AssemblyInfo.cs
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.csproj.CoreCompileInputs.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.csproj.CopyComplete
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\ref\Uygulama.Business.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Business\obj\Debug\net5.0\Uygulama.Business.pdb

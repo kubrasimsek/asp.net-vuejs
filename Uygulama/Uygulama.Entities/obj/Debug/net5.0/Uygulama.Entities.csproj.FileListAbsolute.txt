@@ -1,0 +1,12 @@
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\bin\Debug\net5.0\Uygulama.Entities.deps.json
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\bin\Debug\net5.0\Uygulama.Entities.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\bin\Debug\net5.0\ref\Uygulama.Entities.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\bin\Debug\net5.0\Uygulama.Entities.pdb
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.csprojAssemblyReference.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.AssemblyInfoInputs.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.AssemblyInfo.cs
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.csproj.CoreCompileInputs.cache
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\ref\Uygulama.Entities.dll
+E:\uygulama\Spexco\Uygulama\Uygulama.Entities\obj\Debug\net5.0\Uygulama.Entities.pdb
